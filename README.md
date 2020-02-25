@@ -16,7 +16,7 @@ Sur notre Font on trouvera des rubriques
 
 la partie back va nous permettre d'administrer notre SiteWeb.
 
-Contribuer sur le projet :
+# Contribuer sur le projet :
 
 1. Fork it
 2. Créer votre nouvelle branche (git checkout -b nom-de-ma-nouvelle-branche)
