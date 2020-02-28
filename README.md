@@ -1,5 +1,5 @@
 # websiteaicf
-Site Web AICF
+Site Web AICF (Association des Informaticiens Congolais de France)
 
 Ce projet consiste à mettre en place le Site Web de l'Association des Informaticiens Congolais de France.
 Notre site Web va proposé deux parties un font et un back.
